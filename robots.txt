@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chemilma.github.io/sitemap.html.gz
+Sitemap: https://chemilma.github.io/app/sitemap.html.gz
+Sitemap: https://chemilma.github.io/assets/sitemap.html.gz
+Sitemap: https://chemilma.github.io/css/sitemap.html.gz
+Sitemap: https://chemilma.github.io/includes/sitemap.html.gz
+Sitemap: https://chemilma.github.io/item/sitemap.html.gz
+Sitemap: https://chemilma.github.io/src/sitemap.html.gz
